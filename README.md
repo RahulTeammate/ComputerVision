@@ -7,7 +7,8 @@ First, the classifier is trained on 5000 handwritten digits. Then, the classifie
 ###How to run the Program:
 1. Install IPython.
 2. Open "Computer Vision.ipynb" from IPython
-3. Click on the first block of code.
-4. Press Shift+Enter to execute the code blocks sequentially.
+3. The line with "%cd" needs to have its directory changed to your computer's filepath to this project's folder.
+4. Click on the first block of code.
+5. Press Shift+Enter repeatedly to execute the code blocks sequentially.
 
-*Note:* If there are technical difficulties, load "Computer Vision.html" on your Browser. You cannot run the program from here, but you can still see the code.
+**Note:** If there are technical difficulties, load "Computer Vision.html" on your Browser. You cannot run the program from here, but you can still see the code and the data executed by the code.
